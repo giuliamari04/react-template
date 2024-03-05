@@ -15,8 +15,8 @@ per iniziare
 
  seleziona react
 
-Poi dai quest treomandi:
+Poi dai quest tre comandi:
 
-  cd my-react-app
+  cd nome-progetto
   npm install
   npm run dev
